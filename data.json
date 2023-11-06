@@ -1,0 +1,84 @@
+{
+    "rooms": [
+      {
+        "roomName": "Conference Room A",
+        "seatsAvailable": "20",
+        "amenities": ["Projector", "Whiteboard", "WiFi"],
+        "pricePerHour": "50"
+      },
+      {
+        "roomName": "Banquet Hall B",
+        "seatsAvailable": "100",
+        "amenities": ["Sound System", "Stage", "Catering"],
+        "pricePerHour": "200"
+      },
+      {
+        "roomName": "Meeting Room C",
+        "seatsAvailable": "10",
+        "amenities": ["TV", "Video Conferencing", "Coffee Machine"],
+        "pricePerHour": "30"
+      },
+      {
+        "roomName": "Meeting Room D",
+        "seatsAvailable": "15",
+        "amenities": ["Projector", "Whiteboard", "WiFi"],
+        "pricePerHour": "60"
+      },
+      {
+        "roomName": "Conference Room B",
+        "seatsAvailable": "25",
+        "amenities": ["Projector", "Whiteboard", "WiFi", "Video Conferencing"],
+        "pricePerHour": "70"
+      },
+      {
+        "roomName": "Boardroom X",
+        "seatsAvailable": "12",
+        "amenities": ["Projector", "Whiteboard", "Coffee Machine"],
+        "pricePerHour": "40"
+      }
+    ]
+  }
+
+
+  {
+    "bookings": [
+      {
+        "customerId": "1",
+        "customerName": "John Doe",
+        "roomName": "Conference Room A",
+        "date": "2023-10-30",
+        "startTime": "14:00",
+        "endTime": "16:00"
+      },
+      {
+        "customerId": "2",
+        "customerName": "Jane Smith",
+        "roomName": "Banquet Hall B",
+        "date": "2023-11-05",
+        "startTime": "10:00",
+        "endTime": "14:00"
+      },
+      {
+        "customerId": "3",
+        "customerName": "Alice Johnson",
+        "roomName": "Meeting Room D",
+        "date": "2023-11-10",
+        "startTime": "09:00",
+        "endTime": "11:00"
+      },
+      {
+        "customerId": "4",
+        "customerName": "Bob Brown",
+        "roomName": "Boardroom X",
+        "date": "2023-11-15",
+        "startTime": "15:00",
+        "endTime": "17:00"
+      }
+    ]
+  }
+
+  
+
+
+  
+  
